@@ -1,5 +1,5 @@
-## <span><img src="https://img.shields.io/badge/974479184%40qq.com-blue?style=social&logo=telegram&label=Email%3A"></span>  
-   <span><img src="https://img.shields.io/badge/GuangDong%20University%20Of%20Technoloy-brightgreen?style=plastic&logo=googlescholar&label=College%3A&link=https%3A%2F%2Fwww.gdut.edu.cn%2F"></span>
+## <span><img src="https://img.shields.io/badge/GuangDong%20University%20Of%20Technoloy-brightgreen?style=plastic&logo=googlescholar&label=College%3A&link=https%3A%2F%2Fwww.gdut.edu.cn%2F"> <img src="https://img.shields.io/badge/974479184%40qq.com-blue?style=social&logo=telegram&label=Email%3A"></span>  
+   
 
 <!--
 **secretcheng/secretcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
