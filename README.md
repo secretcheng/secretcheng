@@ -1,6 +1,8 @@
+## 💬 Personal Information
+🔭 A Coder in Guangdong University of Technology.
 
    
-## Languages and Tools:
+## 🌱 Languages and Tools:
 <table>
 <tbody>
   <tr>
@@ -12,8 +14,9 @@
 </tbody>
 </table>
 
-## Contact:
-<span><img src="https://img.shields.io/badge/GuangDong%20University%20Of%20Technoloy-brightgreen?style=plastic&logo=googlescholar&label=College%3A&link=https%3A%2F%2Fwww.gdut.edu.cn%2F"> <img src="https://img.shields.io/badge/974479184%40qq.com-blue?style=social&logo=telegram&label=Email%3A"></span>  
+## 📫 Contact Information：
+<span><img src="https://img.shields.io/badge/GuangDong%20University%20Of%20Technoloy-brightgreen?style=plastic&logo=googlescholar&label=College%3A&link=https%3A%2F%2Fwww.gdut.edu.cn%2F">   
+<img src="https://img.shields.io/badge/974479184%40qq.com-blue?style=social&logo=telegram&label=Email%3A"></span>  
 
 
 <!--
