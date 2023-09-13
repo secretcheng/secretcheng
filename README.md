@@ -1,5 +1,5 @@
 ## 💬 Personal Information
-🔭 A Coder in Guangdong University of Technology.
+🔭 A Coder from Guangdong University of Technology.
 
    
 ## 🌱 Languages and Tools:
